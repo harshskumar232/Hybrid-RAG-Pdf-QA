@@ -1,0 +1,19 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+
+# data (never commit uploads or DB)
+data/uploads/
+data/chroma_db/
+data/analytics.db
+
+# notebooks
+.ipynb_checkpoints/
+
+# sentence-transformers cache
+.cache/
+models/

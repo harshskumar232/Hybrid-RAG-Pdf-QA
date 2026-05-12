@@ -1,0 +1,14 @@
+streamlit==1.35.0
+pymupdf==1.24.5
+langchain==0.2.5
+langchain-groq==0.1.6
+langchain-community==0.2.5
+langchain-chroma==0.1.2
+sentence-transformers==3.0.1
+chromadb==0.5.3
+rank-bm25==0.2.2
+langdetect==1.0.9
+pandas==2.2.2
+plotly==5.22.0
+python-dotenv==1.0.1
+tqdm==4.66.4
