@@ -127,3 +127,11 @@ Opens at `http://localhost:8501`
 - **Conversation memory** — follow-up questions use prior context
 - **Analytics tracking** — every query logged with latency, language, and sources
 - **Local embeddings** — no API cost for embedding (sentence-transformers runs on CPU)
+
+Project Screenshots
+<img width="1728" height="959" alt="Screenshot 2026-05-17 at 8 52 30 AM" src="https://github.com/user-attachments/assets/c26e81d9-fd79-4b37-981f-21dae542c66d" />
+<img width="1728" height="959" alt="Screenshot 2026-05-17 at 8 52 39 AM" src="https://github.com/user-attachments/assets/61131525-9859-4959-a6f0-87375765bd99" />
+<img width="1728" height="959" alt="Screenshot 2026-05-17 at 8 52 49 AM" src="https://github.com/user-attachments/assets/69e3d6b1-3428-480c-8d27-13af2a8a5d55" />
+<img width="1728" height="959" alt="Screenshot 2026-05-17 at 9 16 32 AM" src="https://github.com/user-attachments/assets/104566f2-a2f8-4526-b961-dc8107451c49" />
+<img width="1728" height="959" alt="Screenshot 2026-05-17 at 9 16 42 AM" src="https://github.com/user-attachments/assets/08c2eede-f789-453e-bd34-66590067e106" />
+
