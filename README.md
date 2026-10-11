@@ -86,7 +86,7 @@ rag-document-qa/
 ### 1. Clone and set up
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rag-document-qa.git
+git clone https://github.com/harshskumar232/rag-document-qa.git
 cd rag-document-qa
 
 python3 -m venv venv
